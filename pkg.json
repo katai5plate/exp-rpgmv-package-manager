@@ -1,0 +1,362 @@
+{
+  "audio-streaming": {
+    "title": "音声を高速に読み込むプラグイン(oggファイルだけで音声を再生するプラグイン)",
+    "author": ["くらむぼん"],
+    "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/AudioStreaming.js"
+      ],
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/stbvorbis_stream.js"
+      ],
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/stbvorbis_stream_asm.js"
+      ]
+    ]
+  },
+  "input-form": {
+    "title": "キーボードでテキストフォーム入力",
+    "author": ["111", "くらむぼん"],
+    "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
+    "licence": "CC0",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/111_InputForm.js"
+      ],
+      [
+        "css",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/css/111_InputForm.css"
+      ]
+    ]
+  },
+  "quick-move": {
+    "title": "歩行とジャンプを軽快に(2000風に)するプラグイン",
+    "author": ["くらむぼん"],
+    "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
+    "licence": "CC0",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/QuickMove.js"
+      ]
+    ]
+  },
+  "data-cache-blocker": {
+    "title": "データのキャッシュを阻止するプラグイン(＋「IEでは遊べません」を通知する)",
+    "author": ["くらむぼん"],
+    "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
+    "licence": "CC0",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/DataCacheBlocker.js"
+      ]
+    ]
+  },
+  "multiple-camera": {
+    "title": "画面を分割・複数化するプラグイン",
+    "author": ["くらむぼん"],
+    "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
+    "licence": "CC0",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/krmbn0576/rpgmakermv/master/js/plugins/MultipleCameras.js"
+      ]
+    ]
+  },
+  "auto-translation": {
+    "title": "自動翻訳プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2017/04/blog-post_16.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/AutoTranslation.js"
+      ]
+    ]
+  },
+  "make-screen-movie": {
+    "title": "ゲーム動画作成プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/MakeScreenMovie.js"
+      ]
+    ]
+  },
+  "mp3-audio-manager": {
+    "title": "MP3オーディオ管理プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2017/08/mp3rpg.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/Mp3AudioManager.js"
+      ]
+    ]
+  },
+  "file-downloader": {
+    "title": "ファイルダウンロードプラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2016/11/rpgmv-url-fdmyplugin-filedownloader.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/FileDownloader.js"
+      ]
+    ]
+  },
+  "parallel-bgs": {
+    "title": "BGS並行演奏プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2016/11/bgs.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/ParallelBgs.js"
+      ]
+    ]
+  },
+  "event-respawn": {
+    "title": "イベント動的生成プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2016/08/blog-post.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/EventReSpawn.js"
+      ]
+    ]
+  },
+  "parallel-preload": {
+    "title": "並列プリロードプラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2016/04/blog-post_24.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/ParallelPreload.js"
+      ]
+    ]
+  },
+  "graphical-design-mode": {
+    "title": "GUI画面デザインプラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2016/03/gui.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/GraphicalDesignMode.js"
+      ]
+    ]
+  },
+  "customize-config-default": {
+    "title": "オプションデフォルト値設定プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/CustomizeConfigDefault.js"
+      ]
+    ]
+  },
+  "customize-error-screen": {
+    "title": "エラー画面表示改善プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/2016/05/blog-post_15.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/CustomizeErrorScreen.js"
+      ]
+    ]
+  },
+  "startup-fullscreen": {
+    "title": "フルスクリーンで起動プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "http://triacontane.blogspot.jp/2016/03/blog-post.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/StartUpFullScreen.js"
+      ]
+    ]
+  },
+  "title-newgame-only": {
+    "title": "ニューゲームオンリープラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "http://triacontane.blogspot.jp/2015/11/blog-post.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/TitleNewGameOnly.js"
+      ]
+    ]
+  },
+  "another-newgame": {
+    "title": "アナザーニューゲーム追加プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "https://triacontane.blogspot.com/",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/AnotherNewGame.js"
+      ]
+    ]
+  },
+  "picture-call-common": {
+    "title": "ピクチャのボタン化プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "http://triacontane.blogspot.jp/2015/11/blog-post_23.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/PictureCallCommon.js"
+      ]
+    ]
+  },
+  "dp-mapzoom": {
+    "title": "マップ画面拡大縮小プラグイン",
+    "author": ["Drowsepost"],
+    "homepage": "https://github.com/drowsepost/rpgmaker-mv-plugins",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/drowsepost/rpgmaker-mv-plugins/master/DP_MapZoom.js"
+      ]
+    ]
+  },
+  "dp-skip-title": {
+    "title": "マップ画面拡大縮小プラグイン",
+    "author": ["Drowsepost"],
+    "homepage": "https://github.com/drowsepost/rpgmaker-mv-plugins",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/drowsepost/rpgmaker-mv-plugins/master/DP_SkipTitle.js"
+      ]
+    ]
+  },
+  "h2a-go2map": {
+    "title": "場所移動拡張",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_Go2Map.js"
+      ]
+    ]
+  },
+  "h2a-keep-mover": {
+    "title": "同マップ内でのキー操作維持瞬間移動",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_KeepMover.js"
+      ]
+    ]
+  },
+  "h2a-serial-preload": {
+    "title": "直列プリロード",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_SerialPreload.js"
+      ]
+    ]
+  },
+  "h2a-dont-exclude": {
+    "title": "「未使用ファイルを含まない」に含まないファイルを設定",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_dont-exclude.js"
+      ]
+    ]
+  },
+  "h2a-dp-mapzoom": {
+    "title": "マップ画面拡大縮小プラグインをリージョンIDと同期する",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_region_dp_mapZoom.js"
+      ]
+    ]
+  },
+  "h2a-always": {
+    "title": "マップ上で常に実行する処理を設定する",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_Always.js"
+      ]
+    ]
+  },
+  "h2a-keycode": {
+    "title": "ツクールMVの対応キーを一括設定",
+    "author": ["はどはど"],
+    "homepage": "https://github.com/katai5plate/gist-files",
+    "licence": "WTFPL",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/katai5plate/gist-files/master/js/rpgmv/plugin/H2A_keycode.js"
+      ]
+    ]
+  },
+  "change-map-touch-policy": {
+    "title": "マップタッチ仕様変更プラグイン",
+    "author": ["トリアコンタン"],
+    "homepage": "http://triacontane.blogspot.jp/2015/11/blog-post_16.html",
+    "licence": "MIT",
+    "plugins": [
+      [
+        "js/plugins/",
+        "https://raw.githubusercontent.com/triacontane/RPGMakerMV/master/ChangeMapTouchPolicy.js"
+      ]
+    ]
+  }
+}
