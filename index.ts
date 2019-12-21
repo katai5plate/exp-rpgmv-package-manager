@@ -9,4 +9,4 @@ interface Pkg {
   };
 }
 const packages: Pkg = require("./pkg.json");
-console.log(packages, process.argv);
+console.log(packages, process.argv.slice(2));
