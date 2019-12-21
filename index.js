@@ -1,3 +1,4 @@
 #!/usr/bin/env node
-import * as packages from "./pkg.json";
+"use strict";
+var packages = require("./pkg.json");
 console.log(packages);

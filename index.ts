@@ -1,3 +1,12 @@
 #!/usr/bin/env node
-import * as packages from "./pkg.json";
+interface Pkg {
+  [pluginName: string]: {
+    title: string;
+    author: string[];
+    homepage: string;
+    license: string;
+    plugins: [string, string][];
+  };
+}
+const packages: Pkg = require("./pkg.json");
 console.log(packages);

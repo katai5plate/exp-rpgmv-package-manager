@@ -3,7 +3,7 @@
     "title": "音声を高速に読み込むプラグイン(oggファイルだけで音声を再生するプラグイン)",
     "author": ["くらむぼん"],
     "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -23,7 +23,7 @@
     "title": "キーボードでテキストフォーム入力",
     "author": ["111", "くらむぼん"],
     "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
-    "licence": "CC0",
+    "license": "CC0",
     "plugins": [
       [
         "js/plugins/",
@@ -39,7 +39,7 @@
     "title": "歩行とジャンプを軽快に(2000風に)するプラグイン",
     "author": ["くらむぼん"],
     "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
-    "licence": "CC0",
+    "license": "CC0",
     "plugins": [
       [
         "js/plugins/",
@@ -51,7 +51,7 @@
     "title": "データのキャッシュを阻止するプラグイン(＋「IEでは遊べません」を通知する)",
     "author": ["くらむぼん"],
     "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
-    "licence": "CC0",
+    "license": "CC0",
     "plugins": [
       [
         "js/plugins/",
@@ -63,7 +63,7 @@
     "title": "画面を分割・複数化するプラグイン",
     "author": ["くらむぼん"],
     "homepage": "https://krmbn0576.github.io/rpgmakermv/homepage.html",
-    "licence": "CC0",
+    "license": "CC0",
     "plugins": [
       [
         "js/plugins/",
@@ -75,7 +75,7 @@
     "title": "自動翻訳プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2017/04/blog-post_16.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -87,7 +87,7 @@
     "title": "ゲーム動画作成プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -99,7 +99,7 @@
     "title": "MP3オーディオ管理プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2017/08/mp3rpg.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -111,7 +111,7 @@
     "title": "ファイルダウンロードプラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2016/11/rpgmv-url-fdmyplugin-filedownloader.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -123,7 +123,7 @@
     "title": "BGS並行演奏プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2016/11/bgs.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -135,7 +135,7 @@
     "title": "イベント動的生成プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2016/08/blog-post.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -147,7 +147,7 @@
     "title": "並列プリロードプラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2016/04/blog-post_24.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -159,7 +159,7 @@
     "title": "GUI画面デザインプラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2016/03/gui.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -171,7 +171,7 @@
     "title": "オプションデフォルト値設定プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -183,7 +183,7 @@
     "title": "エラー画面表示改善プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/2016/05/blog-post_15.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -195,7 +195,7 @@
     "title": "フルスクリーンで起動プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "http://triacontane.blogspot.jp/2016/03/blog-post.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -207,7 +207,7 @@
     "title": "ニューゲームオンリープラグイン",
     "author": ["トリアコンタン"],
     "homepage": "http://triacontane.blogspot.jp/2015/11/blog-post.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -219,7 +219,7 @@
     "title": "アナザーニューゲーム追加プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "https://triacontane.blogspot.com/",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -231,7 +231,7 @@
     "title": "ピクチャのボタン化プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "http://triacontane.blogspot.jp/2015/11/blog-post_23.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -243,7 +243,7 @@
     "title": "マップ画面拡大縮小プラグイン",
     "author": ["Drowsepost"],
     "homepage": "https://github.com/drowsepost/rpgmaker-mv-plugins",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -255,7 +255,7 @@
     "title": "マップ画面拡大縮小プラグイン",
     "author": ["Drowsepost"],
     "homepage": "https://github.com/drowsepost/rpgmaker-mv-plugins",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
@@ -267,7 +267,7 @@
     "title": "場所移動拡張",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -279,7 +279,7 @@
     "title": "同マップ内でのキー操作維持瞬間移動",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -291,7 +291,7 @@
     "title": "直列プリロード",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -303,7 +303,7 @@
     "title": "「未使用ファイルを含まない」に含まないファイルを設定",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -315,7 +315,7 @@
     "title": "マップ画面拡大縮小プラグインをリージョンIDと同期する",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -327,7 +327,7 @@
     "title": "マップ上で常に実行する処理を設定する",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -339,7 +339,7 @@
     "title": "ツクールMVの対応キーを一括設定",
     "author": ["はどはど"],
     "homepage": "https://github.com/katai5plate/gist-files",
-    "licence": "WTFPL",
+    "license": "WTFPL",
     "plugins": [
       [
         "js/plugins/",
@@ -351,7 +351,7 @@
     "title": "マップタッチ仕様変更プラグイン",
     "author": ["トリアコンタン"],
     "homepage": "http://triacontane.blogspot.jp/2015/11/blog-post_16.html",
-    "licence": "MIT",
+    "license": "MIT",
     "plugins": [
       [
         "js/plugins/",
