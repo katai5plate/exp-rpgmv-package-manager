@@ -21,6 +21,7 @@ switch (mode) {
     break;
   case Mode.debug:
     console.log(process);
+    console.log(process.cwd());
     break;
   case Mode.version:
     info("未実装");

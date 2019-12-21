@@ -24,6 +24,7 @@ switch (mode) {
         break;
     case types_1.Mode.debug:
         console.log(process);
+        console.log(process.cwd());
         break;
     case types_1.Mode.version:
         utils_1.info("未実装");
