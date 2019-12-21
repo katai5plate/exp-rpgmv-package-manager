@@ -3,8 +3,11 @@
   "version": "1.0.0",
   "description": "ツクールMVのパッケージマネージャ",
   "main": "index.js",
+  "bin": {
+    "mvp": "index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "tsc -w"
   },
   "repository": {
     "type": "git",
@@ -16,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/katai5plate/rpgmv-pkgmng/issues"
   },
-  "homepage": "https://github.com/katai5plate/rpgmv-pkgmng#readme"
+  "homepage": "https://github.com/katai5plate/rpgmv-pkgmng#readme",
+  "devDependencies": {
+    "@types/node": "^12.12.21",
+    "typescript": "^3.7.4"
+  }
 }
