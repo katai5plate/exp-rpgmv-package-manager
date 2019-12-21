@@ -11,6 +11,8 @@ export interface Pkg {
 }
 export declare enum Mode {
     add = "add",
+    addSafe = "add-safe",
     remove = "remove",
+    removeSafe = "remove-safe",
     find = "find"
 }

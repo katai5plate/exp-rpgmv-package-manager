@@ -1,4 +1,4 @@
-import { Pkg, PkgItem } from "./types";
+import { Pkg } from "./types";
 
 /**
  * テキストベースで検索する

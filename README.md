@@ -17,10 +17,12 @@
 2. `wget https://raw.githubusercontent.com/katai5plate/rpgmv-pkgmng/master/public/.gitignore` する
 3. `yarn add -D katai5plate/rpgmv-pkgmng` する
 
-### プラグインをインストールする（まだ）
+### プラグインをインストールする（実装済）
 
 1. ツクール MV のプロジェクトをターミナルで開く
-2. `yarn run mvp add <プラグインID>` する
+2. `yarn run mvp add <プラグインID> <プラグインID> <...>` する
+
+- 勝手にディレクトリを作られたくない場合は<br>`yarn run mvp add-safe <プラグインID> <プラグインID> <...>` する
 
 ### プラグインを検索する（実装済）
 

@@ -22,6 +22,16 @@
   "homepage": "https://github.com/katai5plate/rpgmv-pkgmng#readme",
   "devDependencies": {
     "@types/node": "^12.12.21",
-    "typescript": "^3.7.4"
+    "typescript": "^3.7.4",
+    "@types/chalk": "^2.2.0",
+    "@types/download": "^6.2.4",
+    "@types/fs-extra": "^8.0.1",
+    "@types/node-fetch": "^2.5.4"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "download": "^7.1.0",
+    "fs-extra": "^8.1.0",
+    "node-fetch": "^2.6.0"
   }
 }
