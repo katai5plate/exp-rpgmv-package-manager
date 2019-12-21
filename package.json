@@ -1,0 +1,20 @@
+{
+  "name": "rpgmv-pkgmng",
+  "version": "1.0.0",
+  "description": "ツクールMVのパッケージマネージャ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katai5plate/rpgmv-pkgmng.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katai5plate/rpgmv-pkgmng/issues"
+  },
+  "homepage": "https://github.com/katai5plate/rpgmv-pkgmng#readme"
+}
