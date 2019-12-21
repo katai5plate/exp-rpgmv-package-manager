@@ -14,7 +14,7 @@
 ### プロジェクトにパッケージマネージャをインストールする（実装済）
 
 1. ツクール MV のプロジェクトをターミナルで開く
-2. `wget https://raw.githubusercontent.com/katai5plate/rpgmv-pkgmng/master/.gitignore` する
+2. `wget https://raw.githubusercontent.com/katai5plate/rpgmv-pkgmng/master/public/.gitignore` する
 3. `yarn add -D katai5plate/rpgmv-pkgmng` する
 
 ### プラグインをインストールする（まだ）
