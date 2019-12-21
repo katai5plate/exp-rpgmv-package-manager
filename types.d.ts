@@ -14,5 +14,7 @@ export declare enum Mode {
     addSafe = "add-safe",
     remove = "remove",
     removeSafe = "remove-safe",
-    find = "find"
+    find = "find",
+    version = "version",
+    debug = "debug"
 }

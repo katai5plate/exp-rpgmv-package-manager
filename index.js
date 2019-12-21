@@ -22,6 +22,12 @@ switch (mode) {
     case types_1.Mode.find:
         find_1.default(packages, rest);
         break;
+    case types_1.Mode.debug:
+        console.log(process);
+        break;
+    case types_1.Mode.version:
+        utils_1.info("未実装");
+        break;
     default:
         utils_1.forceEnd("無効なコマンドです:", mode);
 }

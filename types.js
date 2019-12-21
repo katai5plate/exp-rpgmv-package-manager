@@ -7,4 +7,6 @@ var Mode;
     Mode["remove"] = "remove";
     Mode["removeSafe"] = "remove-safe";
     Mode["find"] = "find";
+    Mode["version"] = "version";
+    Mode["debug"] = "debug";
 })(Mode = exports.Mode || (exports.Mode = {}));

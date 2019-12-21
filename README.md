@@ -22,7 +22,9 @@
 1. ツクール MV のプロジェクトをターミナルで開く
 2. `yarn run mvp add <プラグインID> <プラグインID> <...>` する
 
-- 勝手にディレクトリを作られたくない場合は<br>`yarn run mvp add-safe <プラグインID> <プラグインID> <...>` する
+#### 勝手にディレクトリを作られたくない場合
+
+- `yarn run mvp add-safe <プラグインID> <プラグインID> <...>` する
 
 ### プラグインを検索する（実装済）
 
@@ -36,4 +38,21 @@
 
 ### ツールをアップデートする（実装済）
 
-1. `yarn remove rpgmv-pkgmng && yarn add katai5plate/rpgmv-pkgmng` する
+- `yarn remove rpgmv-pkgmng && yarn add katai5plate/rpgmv-pkgmng` する
+
+#### もっと楽にする
+
+1. package.json を以下のようにする
+
+```diff
+  {
+    "dependencies": {
+      "rpgmv-pkgmng": "katai5plate/rpgmv-pkgmng"
+    },
++   "scripts": {
++     "update": "yarn remove rpgmv-pkgmng && yarn add katai5plate/rpgmv-pkgmng"
++   }
+  }
+```
+
+2. `yarn update` するとアップデートされるようになる
