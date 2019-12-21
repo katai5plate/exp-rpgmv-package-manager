@@ -1,12 +1,18 @@
 #!/usr/bin/env node
-interface Pkg {
-  [pluginName: string]: {
-    title: string;
-    author: string[];
-    homepage: string;
-    license: string;
-    plugins: [string, string][];
-  };
-}
+import { Pkg, Mode } from "./types";
+import find from "./find";
 const packages: Pkg = require("./pkg.json");
-console.log(packages, process.argv.slice(2));
+
+const [mode, ...rest] = process.argv.slice(2);
+
+switch (mode) {
+  case Mode.add:
+    break;
+  case Mode.remove:
+    break;
+  case Mode.find:
+    find(packages, rest);
+    break;
+  default:
+    process.exit(1);
+}
