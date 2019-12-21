@@ -22,4 +22,4 @@ export const forceEnd = (...messages: string[]) => {
 
 export const sleep = (ms: number) => new Promise(res => setTimeout(res, ms));
 
-export const here = (path: string) => resolve(__dirname, path);
+export const here = (path: string) => resolve(process.cwd(), path);

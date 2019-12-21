@@ -36,4 +36,4 @@ exports.forceEnd = function () {
     process.exit(1);
 };
 exports.sleep = function (ms) { return new Promise(function (res) { return setTimeout(res, ms); }); };
-exports.here = function (path) { return path_1.resolve(__dirname, path); };
+exports.here = function (path) { return path_1.resolve(process.cwd(), path); };
