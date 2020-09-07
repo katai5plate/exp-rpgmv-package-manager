@@ -1,5 +1,5 @@
 {
-  "name": "rpgmv-pkgmng",
+  "name": "exp-rpgmv-package-manager",
   "version": "1.0.0",
   "description": "ツクールMVのパッケージマネージャ",
   "main": "index.js",
