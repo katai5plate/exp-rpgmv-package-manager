@@ -1,4 +1,4 @@
-# rpgmv-pkgmng
+# exp-rpgmv-package-manager
 
 ツクール MV のパッケージマネージャ
 
